@@ -1,0 +1,7 @@
+Welkom bij de cursus "Leren programmeren voor kinderen"
+
+In deze cursus ga je leren programmeren in Python. Dit is een van de meest populaire
+programmeertalen die er zijn en wordt door miljoenen mensen in de wereld gebruikt.
+
+Niet alleen ga je Python leren, je gaat zelfs leren een game te programmeren. Hoe
+cool is dat!

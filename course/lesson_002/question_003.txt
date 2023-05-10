@@ -1,0 +1,6 @@
+Zag je de robot?
+
+Een robot heeft verschillende functies zoals "draai je hoofd naar links", "til
+je arm op", "loop naar voren", enzovoorts. Dit zijn allemaal functies. 
+
+Een functie geeft dus aan wat de robot kan of doet.

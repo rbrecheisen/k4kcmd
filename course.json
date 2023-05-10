@@ -1,0 +1,51 @@
+[
+    {
+        "name": "lesson_001",
+        "display_name": "Introductie",
+        "questions": [
+            {
+                "file": "course/lesson_001/question_001.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_001/question_002.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_001/question_003.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_001/question_004.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_001/question_005.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_001/question_006.txt",
+                "type": "message"
+            }
+        ]
+    },
+    {
+        "name": "lesson_002",
+        "display_name": "Les 1",
+        "questions": [
+            {
+                "file": "course/lesson_002/question_001.txt",
+                "type": "message"
+            },
+            {
+                "file": "course/lesson_002/question_002.txt",
+                "figure": "resources/images/robot.jpg",
+                "type": "figure"
+            },
+            {
+                "file": "course/lesson_002/question_003.txt",
+                "type": "message"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+In deze cursus gaan we je leren een computerspel te maken. En wel het spelletje "Snakes". Misschien 
+ken je het wel? Je moet allemaal hapjes opeten en bij ieder hapje wordt je staart een stukje langer.
+Hierdoor wordt het steeds lastiger om door het veld te bewegen want als je de kant raakt ben je af!

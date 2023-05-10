@@ -1,0 +1,5 @@
+Welkom in de eerste les van deze cursus!
+
+Hier ga je leren wat *functies* zijn. Functies zijn de allerbelangrijkste dingen
+in het programmeren dus let goed op! Zonder kennis van functies kun je beter naar
+huis gaan, haha!

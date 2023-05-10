@@ -1,0 +1,10 @@
+Je kunt een programmeertaal zien als een vreemde taal, zoals Engels, Frans of Duits. 
+Om met Engelse mensen te kunnen praten, zul je Engels moeten leren. Zo is het ook met
+de computer. 
+
+Om met de computer te kunnen praten, en deze iets te laten doen, zul je een programmeertaal
+moeten leren.
+
+Gelukkig is dat een stuk makkelijker als een echte taal. Ook is het fijn dat de computer
+meerdere talen kan verstaan. Python is er eentje van (en de leukste) maar er zijn heel veel
+programmeertalen. 
